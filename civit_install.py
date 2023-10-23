@@ -15,7 +15,7 @@ def download(file, destination=""):
         
         path = destination + args[0] + ".safetensors"
         os.system("cd {}".format(destination))
-        os.system('wget -bqO "{}" {} > /dev/null'.format(path, args[1]))
+        os.system('wget -bqO "{}" {} > /dev/null'.format(args[0], args[1]))
 
 if len(sys.argv) != 2:
     print("Please provide stable diffusion path")
@@ -26,5 +26,5 @@ loraPath = sys.argv[1] + "/models/Lora"
 download(loraf, loraPath)
 
 checkpointsf = open("checkpoints.txt")
-ckpntPath = sys.argv[1] + "/models/Stable-Diffusion"
+ckpntPath = sys.argv[1] + "/models/Stable-diffusion"
 download(checkpointsf, ckpntPath)

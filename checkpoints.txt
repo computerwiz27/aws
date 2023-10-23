@@ -1,0 +1,6 @@
+Realistic Vision V5.1, https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16, safe
+Deliberate V3, https://civitai.com/api/download/models/156110, safe
+CyberRealistic V3.3, https://civitai.com/api/download/models/138176?type=Model&format=SafeTensor&size=pruned&fp=fp16, safe
+PornMaster Pro V5-full, https://civitai.com/api/download/models/178253?type=Model&format=SafeTensor&size=full&fp=fp32
+Hassaku V1.3, https://civitai.com/api/download/models/106922?type=Model&format=SafeTensor&size=pruned&fp=fp16
+YiffyMix V35, https://civitai.com/api/download/models/189192?type=Model&format=SafeTensor&size=pruned&fp=fp16
